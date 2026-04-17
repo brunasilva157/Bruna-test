@@ -1,4 +1,5 @@
 import matemática
+import utils
 print("Menu:\n"
 "(1) Soma,\n"
 "(2) Subtração,\n"
